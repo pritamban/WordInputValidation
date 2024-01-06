@@ -37,7 +37,7 @@ int main() {
 
 }
 
-void mainBanner()  {   // DONE
+void mainBanner()  {   
     cout << "\n"
         << "\t\t             Validate the starting letter of a string             \n"
         << "\t\t                      while validation loop                       \n"
